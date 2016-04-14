@@ -2,7 +2,10 @@
 
 This guide aims to help you scale from zero to infinity for a career in domains related to Computer Science in general and Software Development in particular. I'd highly encourage you to read [this](https://captnemo.in/2015/10/12/get-better-at-software-development.html) as well - as an introduction to getting better.
 
-## Computer Science Curriculum
+>Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity
+> - Aaron Swartz
+
+## 1. Computer Science Curriculum
 
 Courses below helps you cover the very basics of CS.
 
@@ -11,7 +14,7 @@ Courses below helps you cover the very basics of CS.
 * [Open University](https://github.com/open-source-society/computer-science)
   List of free online MOOC courses that you might take up to gain your free education in Computer Science
 
-## Technical Books to Read
+## 2. Technical Books to Read
 
 ### The essentials
 
@@ -25,7 +28,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 * [List by CodingHorror](https://blog.codinghorror.com/recommended-reading-for-developers/)
 * [Find some here as well](http://hackershelf.com/browse/)
 
-## Programming
+## 3. Programming
 
 ### Books
 
@@ -52,7 +55,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 * [Google Code Jam](https://code.google.com/codejam)
 * [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
 
-## Free Side Project Ideas
+## 4. Free Side Project Ideas
 
 * [From @karan](https://github.com/karan/Projects)
 * [My own side project list](https://docs.google.com/document/d/1QEdIOuvvJN5LIQapNcEIXhGLUGrgfFQp585wu33I5oQ/edit?usp=sharing)
@@ -64,7 +67,7 @@ Some Open Source projects where you can start contributing. How to start? [Read 
 * [From Github](https://github.com/explore)
 * [A list of organizations from GSOC](https://developers.google.com/open-source/gsoc/2016/organizations)
 
-## Coding Interview Preparation
+## 5. Coding Interview Preparation
 * [InterviewCake](https://www.interviewcake.com/)
 * [CareerCup - Coding Interview Questions](https://www.careercup.com/page?pid=coding-interview-questions)
 
@@ -74,7 +77,7 @@ Some Open Source projects where you can start contributing. How to start? [Read 
 * [The Asana Interviewing Guide](https://blog.asana.com/2016/03/asana-engineering-interview-guide/)
 * [Passing a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
 
-## Building Profile/Knowledge
+## 6. Building Profile/Knowledge
 
 * Create a Twitter account and follow good lists. Some of mine [here](https://twitter.com/dtsdwarak/lists/).
 * Create a StackOverFlow account and answer as many questions as possible - explore and learn.
