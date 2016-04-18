@@ -13,6 +13,14 @@ Courses below helps you cover the very basics of CS.
 * [Open University](https://github.com/open-source-society/computer-science)
   List of free online MOOC courses that you might take up to gain your free education in Computer Science
 
+### Stuff for the curious
+
+* [Computer Science Field Guide](http://csfieldguide.org.nz/)
+* [CS Handbook](http://www.thecshandbook.com/)
+* [Computer Science from the Bottom Up](http://www.bottomupcs.com/)
+* [Open Data Structures](http://opendatastructures.org/)
+* [List of Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+
 ## 2. Technical Books to Read
 
 ### The essentials
@@ -26,6 +34,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 
 * [List by CodingHorror](https://blog.codinghorror.com/recommended-reading-for-developers/)
 * [Find some here as well](http://hackershelf.com/browse/)
+* [A LONG LIST OF FREE EBOOKS](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 
 ## 3. Programming
 
@@ -42,6 +51,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 * [HackerEarth](https://www.hackerearth.com/)
 * [Project Euler](https://projecteuler.net/)
 * [SPOJ](http://www.spoj.com/)
+* [LeetCode](https://leetcode.com/problemset/algorithms/)
 
 ### Courses
 
