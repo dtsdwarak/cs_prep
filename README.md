@@ -63,6 +63,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 
 * [Google Code Jam](https://code.google.com/codejam)
 * [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
+* [Code Forces](http://codeforces.com/)
 
 ## 4. Free Side Project Ideas
 
