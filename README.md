@@ -91,8 +91,17 @@ Some Open Source projects where you can start contributing. How to start? [Read 
 
 ## 6. Building Profile/Knowledge
 
+Here is a list of [best engineering blogs](http://www.nicolabortignon.com/startup-reading-list/) that you may want to follow.
+
 * Create a Twitter account and follow good lists. Some of mine [here](https://twitter.com/dtsdwarak/lists/).
 * Create a StackOverFlow account and answer as many questions as possible - explore and learn.
 * Listen to podcasts. Some of my personal favourites [here](https://blog.dwarak.in/2015/07/13/Best-Podcasts-On-Web/).
-* Talk and present in meetups/conferences.
+* You might also want to follow [HackerNews](https://news.ycombinator.com), [Lobsters](https://lobste.rs) for explosure. Or get everything at [Coven](http://www.coven.link).
+* Talk and present in meetups/conferences. A list of best developer conferences [here](https://news.ycombinator.com/item?id=10831730).
 * **Stay Humble. Don't be an ass!**
+
+---
+
+## LICENSE
+
+Content licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
