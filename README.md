@@ -12,6 +12,8 @@ Courses below helps you cover the very basics of CS.
   Consists list of MOOC Courses and Resources for a career in CS
 * [Open University](https://github.com/open-source-society/computer-science)
   List of free online MOOC courses that you might take up to gain your free education in Computer Science
+* [TeachYourSelfCS](https://teachyourselfcs.com/) **[RECOMMENDED]**
+  Best CS curriculum to start ground up.
 
 ### Stuff for the curious
 
@@ -36,7 +38,14 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 * [Find some here as well](http://hackershelf.com/browse/)
 * [A LONG LIST OF FREE EBOOKS](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 
-## 3. Programming
+## 3. Programming/Interview
+
+### Algorithm Prep Material
+
+* [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
+* [C++ STL YouTube playlist](https://www.youtube.com/playlist?list=PL_dsdStdDXbq8BTjGdUEWgWYFWYP6pwYb)
+* [AlgorithmIst](https://algorithmist.com/wiki/Main_Page)
+* [VisualAlgo](https://visualgo.net/en)
 
 ### Books
 
@@ -58,6 +67,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 * [Algorithms I](https://www.coursera.org/course/algs4partI)
 * [Algorithms II](https://www.coursera.org/course/algs4partII)
 * [Data Structures and Algorithms - Coursera](https://www.coursera.org/specializations/data-structures-algorithms)
+* [DS and Algorithms - Dr. Naveen Garg](https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F)
 
 ### Coding Contests
 
