@@ -54,7 +54,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 ### Websites
 
 * [HackerRank](https://www.hackerrank.com/)
-* [InterviewBit](https://www.interviewbit.com/)
+* [InterviewBit](https://www.interviewbit.com/) **[RECOMMENDED]**
 * [CodeChef](https://www.codechef.com/)
 * [TopCoder](https://www.topcoder.com/)
 * [HackerEarth](https://www.hackerearth.com/)
@@ -67,13 +67,35 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 * [Algorithms I](https://www.coursera.org/course/algs4partI)
 * [Algorithms II](https://www.coursera.org/course/algs4partII)
 * [Data Structures and Algorithms - Coursera](https://www.coursera.org/specializations/data-structures-algorithms)
-* [DS and Algorithms - Dr. Naveen Garg](https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F)
+* [DS and Algorithms - Dr. Naveen Garg](https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F) **[RECOMMENDED]**
+
+### YouTube Channels
+
+* [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos)
+* [MyCodeSchool](https://www.youtube.com/user/mycodeschool/videos)
+
+#### References 
+
+1. [YouTube Channels for Competitive Programmers](https://codeforces.com/topic/43738/en6)
+2. [Script to Download Entire YouTube Channel](https://gist.github.com/dtsdwarak/b65ce205a59d95bd0739fcdb2f33dfec)
 
 ### Coding Contests
 
 * [Google Code Jam](https://code.google.com/codejam)
 * [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
 * [Code Forces](http://codeforces.com/)
+
+### Coding Interview Preparation
+* [InterviewCake](https://www.interviewcake.com/)
+* [CareerCup - Coding Interview Questions](https://www.careercup.com/page?pid=coding-interview-questions)
+* Some links from [GeeksForGeeks](http://www.geeksforgeeks.org/) : [1](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/), [2](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/), [3](http://www.geeksforgeeks.org/top-25-interview-questions/)
+
+### Some guides from organizations
+
+* [Interviewing at Palantir - Prep Guide](https://www.palantir.com/getting-hired/)
+* [The Asana Interviewing Guide](https://blog.asana.com/2016/03/asana-engineering-interview-guide/)
+* [Passing a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
+* [List of Interview Experiences from GeeksForGeeks](http://www.geeksforgeeks.org/about/interview-corner/)
 
 ## 4. Free Side Project Ideas
 
@@ -87,19 +109,7 @@ Some Open Source projects where you can start contributing. How to start? [Read 
 * [From Github](https://github.com/explore)
 * [A list of organizations from GSOC](https://developers.google.com/open-source/gsoc/2016/organizations)
 
-## 5. Coding Interview Preparation
-* [InterviewCake](https://www.interviewcake.com/)
-* [CareerCup - Coding Interview Questions](https://www.careercup.com/page?pid=coding-interview-questions)
-* Some links from [GeeksForGeeks](http://www.geeksforgeeks.org/) : [1](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/), [2](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/), [3](http://www.geeksforgeeks.org/top-25-interview-questions/)
-
-### Some guides from organizations
-
-* [Interviewing at Palantir - Prep Guide](https://www.palantir.com/getting-hired/)
-* [The Asana Interviewing Guide](https://blog.asana.com/2016/03/asana-engineering-interview-guide/)
-* [Passing a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
-* [List of Interview Experiences from GeeksForGeeks](http://www.geeksforgeeks.org/about/interview-corner/)
-
-## 6. Building Profile/Knowledge
+## 5. Building Profile/Knowledge
 
 Here is a list of [best engineering blogs](http://www.nicolabortignon.com/startup-reading-list/) that you may want to follow.
 
