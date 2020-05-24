@@ -81,7 +81,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 
 ### Coding Contests
 
-* [Google Code Jam](https://code.google.com/codejam)
+* [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 * [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
 * [Code Forces](http://codeforces.com/)
 
