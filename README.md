@@ -101,6 +101,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 
 * [From @karan](https://github.com/karan/Projects)
 * [My own side project list](https://docs.google.com/document/d/1QEdIOuvvJN5LIQapNcEIXhGLUGrgfFQp585wu33I5oQ/edit?usp=sharing)
+* [Side project list from HN](https://news.ycombinator.com/item?id=23290536)
 
 ### Open Source Projects
 
