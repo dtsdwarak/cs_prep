@@ -40,6 +40,8 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 
 ## 3. Programming/Interview
 
+> Reference for [DS wise Algorithm list](./Algorithms.md)
+
 ### Algorithm Prep Material
 
 * [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
