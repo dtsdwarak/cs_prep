@@ -39,3 +39,7 @@ This page mentions specific algorithms for each section of DS problems. (This is
 > 1. https://www.geeksforgeeks.org/fundamentals-of-algorithms/#PatternSearching
 > 2. https://www.geeksforgeeks.org/fundamentals-of-algorithms/#OtherStringAlgorithms
 
+
+### Hashing
+
+1. https://medium.com/@codingfreak/hashing-problems-in-data-structures-c41b77a5119a
