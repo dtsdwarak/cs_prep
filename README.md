@@ -48,6 +48,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 * [C++ STL YouTube playlist](https://www.youtube.com/playlist?list=PL_dsdStdDXbq8BTjGdUEWgWYFWYP6pwYb)
 * [AlgorithmIst](https://algorithmist.com/wiki/Main_Page)
 * [VisualAlgo](https://visualgo.net/en)
+* [CP-Algorithms - E-Maxx Algorithms in English](https://cp-algorithms.com/)
 
 ### Books
 
