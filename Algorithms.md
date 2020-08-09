@@ -14,9 +14,9 @@ This page mentions specific algorithms for each section of DS problems. (This is
 
 ### Pattern Matching
 
-1.	Naive Pattern Searching - [Abdul Bari](https://youtu.be/V5-7GzOfADQ), [Back to Back SWE](https://youtu.be/BXCEFAzhxGY), [Tushar Roy](https://youtu.be/GTJr8OvyEVQ)
-2.	KMP Algorithm - [Abdul Bari - KMP String Matching Algorithm](https://youtu.be/V5-7GzOfADQ)
-3.	Rabin-Karp Algorithm
+1.	Naive Pattern Searching - [Abdul Bari](https://youtu.be/V5-7GzOfADQ)
+2.	KMP Algorithm - [Abdul Bari](https://youtu.be/V5-7GzOfADQ), [Back to Back SWE](https://youtu.be/BXCEFAzhxGY), [Tushar Roy](https://youtu.be/GTJr8OvyEVQ), [GeeksForGeeks](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
+3.	Rabin-Karp Algorithm - [Tushar Roy](https://www.youtube.com/watch?v=H4VrKHVG5qI)
 4.	A Naive Pattern Searching Question
 5.	Finite Automata
 6.	Efficient Construction of Finite Automata
