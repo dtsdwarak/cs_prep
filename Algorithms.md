@@ -83,5 +83,5 @@ This page mentions specific algorithms for each section of DS problems. (This is
 35. Generate power set of a given set
 36. Find all odd occurring elements in an array having limited range of elements
 
-> References
-https://medium.com/techie-delight/bit-manipulation-interview-questions-and-practice-problems-27c0e71412e7
+> References   
+> https://medium.com/techie-delight/bit-manipulation-interview-questions-and-practice-problems-27c0e71412e7
