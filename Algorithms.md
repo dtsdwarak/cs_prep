@@ -5,7 +5,8 @@ This page mentions specific algorithms for each section of DS problems. (This is
 > Algorithm References
 > 1. https://www.geeksforgeeks.org/fundamentals-of-algorithms/ - List of Algorithms/Problems
 > 2. https://tutorialspoint.dev/ - List of Algorithms/Problems
-> 2. [2017 Book to Competitive Programming](https://www.dropbox.com/s/xiu5yx6r7rckux3/2017_Book_GuideToCompetitiveProgramming.pdf?dl=0)
+> 3. [2017 Book to Competitive Programming](https://www.dropbox.com/s/xiu5yx6r7rckux3/2017_Book_GuideToCompetitiveProgramming.pdf?dl=0)
+> 4. [An awesome list for competitve programming - Codeforces Blog Entry](https://codeforces.com/blog/entry/23054)
 
 ## Arrays
 

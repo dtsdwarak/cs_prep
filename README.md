@@ -53,6 +53,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 ### Books
 
 * [CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
+* [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) **[Good Introductory Material]**
 
 ### Websites
 
@@ -63,7 +64,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 * [HackerEarth](https://www.hackerearth.com/)
 * [Project Euler](https://projecteuler.net/)
 * [SPOJ](http://www.spoj.com/)
-* [LeetCode](https://leetcode.com/problemset/algorithms/)
+* [LeetCode](https://leetcode.com/problemset/algorithms/) **[RECOMMENDED]**
 
 ### Courses
 
@@ -74,13 +75,22 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 
 ### YouTube Channels
 
+> The channels listed here offer content which is mixed between - Algo/DS questions, Tips for Preparations/Interviews etc.
+
 * [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos)
 * [MyCodeSchool](https://www.youtube.com/user/mycodeschool/videos)
+* [Pepcoding](https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw) **[Available in Hindi. But really good content.]**
+* [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
+* [Algorithm World](https://www.youtube.com/channel/UCyOeSe6gYd9vYpSetIrM-5A) **[Available in Hindi. But really good content.]**
+* [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+* [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
+* [Errichto](https://www.youtube.com/c/Errichto/videos)
 
 #### References 
 
 1. [YouTube Channels for Competitive Programmers](https://codeforces.com/topic/43738/en6)
 2. [Script to Download Entire YouTube Channel](https://gist.github.com/dtsdwarak/b65ce205a59d95bd0739fcdb2f33dfec)
+3. [An awesome list for competitve programming - Codeforces Blog Entry](https://codeforces.com/blog/entry/23054)
 
 ### Coding Contests
 
