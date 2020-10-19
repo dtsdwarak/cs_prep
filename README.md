@@ -110,6 +110,10 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 * [Passing a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
 * [List of Interview Experiences from GeeksForGeeks](http://www.geeksforgeeks.org/about/interview-corner/)
 
+### System Design
+
+* [System Design Manual](https://systemdesignmanual.com/)
+
 ## 4. Free Side Project Ideas
 
 * [From @karan](https://github.com/karan/Projects)
