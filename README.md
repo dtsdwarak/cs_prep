@@ -112,7 +112,11 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 
 ### System Design
 
+> Have not explored/reviewed any of the following myself, as yet. Feel free to explore.
+
 * [System Design Manual](https://systemdesignmanual.com/)
+* [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/9352135245/)
+* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 
 ## 4. Free Side Project Ideas
 
