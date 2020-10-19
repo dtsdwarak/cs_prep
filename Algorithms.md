@@ -12,6 +12,13 @@ This page mentions specific algorithms for each section of DS problems. (This is
 
 1. Kadane's Algorithm
 
+## Stacks/Queues
+
+> References
+> 1. [GeeksForGeeks - Stack](https://www.youtube.com/playlist?list=PLqM7alHXFySF7Lap-wi5qlaD8OEBx9RMV)
+> 2. [GeeksforGeeks - Queue](https://www.youtube.com/playlist?list=PLqM7alHXFySG6wgjVeEat_ouTIi0IBQ6D)
+> 3. [Aditya Verma - Stack](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)
+
 ## String
 
 ### Pattern Matching
