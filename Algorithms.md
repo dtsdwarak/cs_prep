@@ -7,6 +7,7 @@ This page mentions specific algorithms for each section of DS problems. (This is
 > 2. https://tutorialspoint.dev/ - List of Algorithms/Problems
 > 3. [2017 Book to Competitive Programming](https://www.dropbox.com/s/xiu5yx6r7rckux3/2017_Book_GuideToCompetitiveProgramming.pdf?dl=0)
 > 4. [An awesome list for competitve programming - Codeforces Blog Entry](https://codeforces.com/blog/entry/23054)
+> 5. [Popular DS/Algo Implementation References - Codeforces Blog Entry](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
 
 ## Arrays
 
