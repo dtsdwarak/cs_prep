@@ -72,6 +72,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 * [Algorithms II](https://www.coursera.org/course/algs4partII)
 * [Data Structures and Algorithms - Coursera](https://www.coursera.org/specializations/data-structures-algorithms)
 * [DS and Algorithms - Dr. Naveen Garg](https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F) **[RECOMMENDED]**
+  - [Slides](https://www.dropbox.com/sh/enpo1ilzc11m4r7/AADNMl9_1xCy25b_xbO8oLaLa?dl=0)
 
 ### YouTube Channels
 
