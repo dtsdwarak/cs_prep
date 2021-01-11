@@ -1,6 +1,6 @@
 # CS Prep Guide
 
-This guide aims to help you scale from zero to infinity for a career in domains related to Computer Science in general and Software Development in particular. I'd highly encourage you to read [this](https://captnemo.in/2015/10/12/get-better-at-software-development.html) as well - as an introduction to getting better.
+This guide aims to help you scale from zero to infinity for a career in domains related to Computer Science in general and Software Development in particular. I'd highly encourage you to read [this](https://captnemo.in/blog/2015/10/12/get-better-at-software-development/) as well - as an introduction to getting better.
 
 >Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity - Aaron Swartz
 
@@ -27,9 +27,9 @@ Courses below helps you cover the very basics of CS.
 
 ### The essentials
 
-* [Fred Brooks' The Mythical Man-Month](#)
-* [Donald Knuth's The Art of Computer Programming](#)
-* [Structure and Interpretation of Computer Programs](#)
+* [Fred Brooks' The Mythical Man-Month](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)
+* [Donald Knuth's The Art of Computer Programming](https://www.goodreads.com/book/show/9410434-the-art-of-computer-programming-volumes-1-4a-boxed-set)
+* [Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Program)
 
 ### Optional Alternative
 You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo.in/).
@@ -37,6 +37,8 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 * [List by CodingHorror](https://blog.codinghorror.com/recommended-reading-for-developers/)
 * [Find some here as well](http://hackershelf.com/browse/)
 * [A LONG LIST OF FREE EBOOKS](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+* [blog.dwarak.in - CS Book List](https://blog.dwarak.in/2018/11/24/CS-Book-List/)
+* [blog.dwarak.in - Recommended Readings for CS Graduate](https://blog.dwarak.in/2020/12/13/Recommended-Readings-For-CS-Graduate/)
 
 ## 3. Programming/Interview
 
