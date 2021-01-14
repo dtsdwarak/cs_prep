@@ -119,10 +119,17 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 
 * [System Design Manual](https://systemdesignmanual.com/)
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/9352135245/)
+* [System Design Interview – An Insider's Guide](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 * [High Scalability Blog](http://highscalability.com/)
 * [@donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [@binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+* [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+
+### Mock Interviews
+
+1. [Pramp.com](https://www.pramp.com/#/)
+2. [Gainlo](http://www.gainlo.co/#!/)
 
 ## 4. Free Side Project Ideas
 
