@@ -117,7 +117,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 
 > Have not explored/reviewed any of the following myself, as yet. Feel free to explore.
 
-* [System Design Manual](https://systemdesignmanual.com/)
+* ~~[System Design Manual](https://systemdesignmanual.com/)~~ Renamed to [Understanding Distributed Systems](https://understandingdistributed.systems/)
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/9352135245/)
 * [System Design Interview – An Insider's Guide](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
