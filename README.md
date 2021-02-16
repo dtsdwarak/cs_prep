@@ -125,6 +125,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 * [@donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [@binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 * [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+* [Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
 #### Distributed Systems Courses
 
