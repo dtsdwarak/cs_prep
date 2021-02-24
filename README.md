@@ -115,7 +115,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 
 ### System Design
 
-> Have not explored/reviewed any of the following myself, as yet. Feel free to explore.
+> Have not explored/reviewed any of the following myself, as yet. Feel free to explore. Some of my recommended reading lists here - [@dtsdwarak/DistributedSystemReadings](https://dtsdwarak.github.io/DistributedSystemReadings/)
 
 * ~~[System Design Manual](https://systemdesignmanual.com/)~~ Renamed to [Understanding Distributed Systems](https://understandingdistributed.systems/)
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/9352135245/)
