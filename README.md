@@ -173,4 +173,4 @@ Here is a list of [best engineering blogs](http://www.nicolabortignon.com/startu
 
 ## LICENSE
 
-Content licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Content licensed under [MIT](https://opensource.org/licenses/MIT).
