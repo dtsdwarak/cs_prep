@@ -133,6 +133,7 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 * [Distributed Systems lecture series - University of Cambridge](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
   - [Associated Reading Material](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-notes.pdf)
 * [Tech Dummies Narendra L - YouTube](https://www.youtube.com/c/TechDummiesNarendraL/videos)
+* [System Design Interview - YouTube](https://www.youtube.com/c/SystemDesignInterview/videos)
 
 
 ### Mock Interviews
