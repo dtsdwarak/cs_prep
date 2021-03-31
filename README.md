@@ -76,22 +76,30 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 
 * [Algorithms I](https://www.coursera.org/course/algs4partI)
 * [Algorithms II](https://www.coursera.org/course/algs4partII)
+* [Algorithms, 4th Edition](https://cuvids.io/app/video/98/watch)
 * [Data Structures and Algorithms - Coursera](https://www.coursera.org/specializations/data-structures-algorithms)
 * [DS and Algorithms - Dr. Naveen Garg](https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F) **[RECOMMENDED]**
   - [Slides](https://www.dropbox.com/sh/enpo1ilzc11m4r7/AADNMl9_1xCy25b_xbO8oLaLa?dl=0)
+* [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+  - [MIT OCW Course Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+* [Design & Analysis of Algorithms - IIT Bombay](https://www.youtube.com/playlist?list=PL7DC83C6B3312DF1E)
+  - [NPTEL Course Page](https://nptel.ac.in/courses/106/101/106101060/)
+* [MIT 6.046J Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+  - [MIT OCW Course Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
 ### YouTube Channels
 
 > The channels listed here offer content which is mixed between - Algo/DS questions, Tips for Preparations/Interviews etc.
 
-* [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos)
+* [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) **[RECOMMENDED]**
 * [MyCodeSchool](https://www.youtube.com/user/mycodeschool/videos)
 * [Pepcoding](https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw) **[Available in Hindi. But really good content.]**
-* [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
+* [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA) **[RECOMMENDED]**
 * [Algorithm World](https://www.youtube.com/channel/UCyOeSe6gYd9vYpSetIrM-5A) **[Available in Hindi. But really good content.]**
 * [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 * [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
 * [Errichto](https://www.youtube.com/c/Errichto/videos)
+* [Lalitha Natraj](https://www.youtube.com/channel/UCNsGQ_oLlH89HoKd5uyoAEQ)
 
 #### References 
 
