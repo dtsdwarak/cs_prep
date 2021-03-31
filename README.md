@@ -46,11 +46,15 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 
 ### Algorithm Prep Material
 
-* [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
 * [C++ STL YouTube playlist](https://www.youtube.com/playlist?list=PL_dsdStdDXbq8BTjGdUEWgWYFWYP6pwYb)
 * [AlgorithmIst](https://algorithmist.com/wiki/Main_Page)
 * [VisualAlgo](https://visualgo.net/en)
 * [CP-Algorithms - E-Maxx Algorithms in English](https://cp-algorithms.com/)
+
+#### Cheatsheets
+
+* [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
+* [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/) ([Print Friendly Version](https://www.dropbox.com/s/dz54osvzf3vdnzf/Algorithms_And_DS_Cheatsheet.pdf?dl=0))
 
 ### Books
 
