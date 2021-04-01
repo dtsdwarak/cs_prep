@@ -4,6 +4,13 @@ This guide aims to help you scale from zero to infinity for a career in domains 
 
 >Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity - Aaron Swartz
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 ## 1. Computer Science Curriculum
 
 Courses below helps you cover the very basics of CS.
