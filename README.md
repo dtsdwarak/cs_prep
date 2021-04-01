@@ -4,12 +4,32 @@ This guide aims to help you scale from zero to infinity for a career in domains 
 
 >Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity - Aaron Swartz
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+## Table of Contents  
+
+* [1. Computer Science Curriculum](#1-computer-science-curriculum)
+  + [Stuff for the curious](#stuff-for-the-curious)
+* [2. Technical Books to Read](#2-technical-books-to-read)
+  + [The essentials](#the-essentials)
+  + [Optional Alternative](#optional-alternative)
+* [3. Programming/Interview](#3-programming-interview)
+  + [Algorithm Prep Material](#algorithm-prep-material)
+    - [Cheatsheets](#cheatsheets)
+  + [Books](#books)
+  + [Websites](#websites)
+  + [Courses](#courses)
+  + [YouTube Channels](#youtube-channels)
+    - [References](#references)
+  + [Coding Contests](#coding-contests)
+  + [Coding Interview Preparation](#coding-interview-preparation)
+  + [Some guides from organizations](#some-guides-from-organizations)
+  + [System Design](#system-design)
+    - [Distributed Systems Courses and YouTube Channels](#distributed-systems-courses-and-youtube-channels)
+  + [Mock Interviews](#mock-interviews)
+* [4. Free Side Project Ideas](#4-free-side-project-ideas)
+  + [Open Source Projects](#open-source-projects)
+* [5. Building Profile/Knowledge](#5-building-profile-knowledge)
+* [Similar Guides](#similar-guides)
+* [LICENSE](#license)
 
 ## 1. Computer Science Curriculum
 
