@@ -13,6 +13,7 @@ layout: default
 * [AlgorithmIst](https://algorithmist.com/wiki/Main_Page)
 * [VisualAlgo](https://visualgo.net/en)
 * [CP-Algorithms - E-Maxx Algorithms in English](https://cp-algorithms.com/)
+* [The Algorithms](https://the-algorithms.com/) - Repository of Algorithm implementations in all major languages.
 
 ### Books
 
