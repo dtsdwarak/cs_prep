@@ -78,7 +78,7 @@ layout: default
 
 ### System Design
 
-> Have not explored/reviewed any of the following myself, as yet. Feel free to explore.
+> Have not explored/reviewed any of the following myself, as yet. Feel free to explore. For detailed references on topic-wise distributed systems, refer to [dtsdwarak@/distributed-systems-readings](https://dtsdwarak.github.io/distributed-systems-readings/)
 
 * ~~[System Design Manual](https://systemdesignmanual.com/)~~ Renamed to [Understanding Distributed Systems](https://understandingdistributed.systems/)
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/9352135245/)
@@ -88,6 +88,7 @@ layout: default
 * [@donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [@binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 * [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+* [MS Azure - Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 #### Distributed Systems Courses
 
