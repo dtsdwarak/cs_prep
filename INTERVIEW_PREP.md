@@ -90,6 +90,12 @@ layout: default
 * [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 * [MS Azure - Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
+#### YouTube Channels
+
+* [System Design Daily](https://www.youtube.com/channel/UC-nf8kVIeRMAzW3SRMzJ8-g/videos)
+* [Tech Dummies Narendra L](https://www.youtube.com/c/TechDummiesNarendraL/videos)
+* [System Design - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+
 #### Distributed Systems Courses
 
 * [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
