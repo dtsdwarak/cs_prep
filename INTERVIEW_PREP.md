@@ -14,6 +14,7 @@ layout: default
 * [VisualAlgo](https://visualgo.net/en)
 * [CP-Algorithms - E-Maxx Algorithms in English](https://cp-algorithms.com/)
 * [The Algorithms](https://the-algorithms.com/) - Repository of Algorithm implementations in all major languages.
+* [Algorithm Visualizer - University of San Francisco](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### Books
 
