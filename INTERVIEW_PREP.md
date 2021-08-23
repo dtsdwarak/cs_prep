@@ -96,6 +96,7 @@ layout: default
 * [System Design Daily](https://www.youtube.com/channel/UC-nf8kVIeRMAzW3SRMzJ8-g/videos)
 * [Tech Dummies Narendra L](https://www.youtube.com/c/TechDummiesNarendraL/videos)
 * [System Design - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+* [sudoCODE](https://www.youtube.com/c/sudoCODE/videos)
 
 #### Distributed Systems Courses
 
