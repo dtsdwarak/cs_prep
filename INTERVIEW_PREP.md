@@ -90,6 +90,7 @@ layout: default
 * [@binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 * [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 * [MS Azure - Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+* [The Amazon Builders' Library - How Amazon builds and operates software](https://aws.amazon.com/builders-library/)
 * [System Design Weekly - Newsletter](https://mitelman.engineering/system-design-weekly/) **[RECOMMENDED]**
 
 #### YouTube Channels
