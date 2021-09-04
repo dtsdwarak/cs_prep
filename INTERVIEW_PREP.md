@@ -47,6 +47,8 @@ layout: default
 * [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos)
 * [MyCodeSchool](https://www.youtube.com/user/mycodeschool/videos)
 * [Pepcoding](https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw) **[Available in Hindi. But really good content.]**
+* [Aditya Verma](https://www.youtube.com/c/AdityaVermaTheProgrammingLord/featured) **[Available in Hindi. But really good content.]**
+  - Check the [DP Programming Playlist from Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
 * [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
 * [Algorithm World](https://www.youtube.com/channel/UCyOeSe6gYd9vYpSetIrM-5A) **[Available in Hindi. But really good content.]**
 * [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
