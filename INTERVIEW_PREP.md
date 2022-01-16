@@ -31,6 +31,8 @@ layout: default
 * [Project Euler](https://projecteuler.net/)
 * [SPOJ](http://www.spoj.com/)
 * [LeetCode](https://leetcode.com/problemset/algorithms/) **[RECOMMENDED]**
+  - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
+* [BinarySearch](https://binarysearch.com/) - Free leetcode alternative.
 
 ## 4. Courses
 
