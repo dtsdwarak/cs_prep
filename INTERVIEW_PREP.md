@@ -9,7 +9,9 @@ layout: default
 ## 1. Algorithm Prep Material
 
 * [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
-* [C++ STL YouTube playlist](https://www.youtube.com/playlist?list=PL_dsdStdDXbq8BTjGdUEWgWYFWYP6pwYb)
+* C++
+  - [C++ STL YouTube playlist](https://www.youtube.com/playlist?list=PL_dsdStdDXbq8BTjGdUEWgWYFWYP6pwYb)
+  - [C++ Tutorials - STL/Advanced STL/Concurrent Programming by Bo Qian](https://www.youtube.com/user/BoQianTheProgrammer/playlists)
 * [AlgorithmIst](https://algorithmist.com/wiki/Main_Page)
 * [VisualAlgo](https://visualgo.net/en)
 * [CP-Algorithms - E-Maxx Algorithms in English](https://cp-algorithms.com/)
