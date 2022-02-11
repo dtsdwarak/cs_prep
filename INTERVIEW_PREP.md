@@ -12,6 +12,8 @@ layout: default
 * C++
   - [C++ STL YouTube playlist](https://www.youtube.com/playlist?list=PL_dsdStdDXbq8BTjGdUEWgWYFWYP6pwYb)
   - [C++ Tutorials - STL/Advanced STL/Concurrent Programming by Bo Qian](https://www.youtube.com/user/BoQianTheProgrammer/playlists)
+* Java
+  - [Java Concurrency and Multithreading - Jakob Jenkov](https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4)
 * [AlgorithmIst](https://algorithmist.com/wiki/Main_Page)
 * [VisualAlgo](https://visualgo.net/en)
 * [CP-Algorithms - E-Maxx Algorithms in English](https://cp-algorithms.com/)
