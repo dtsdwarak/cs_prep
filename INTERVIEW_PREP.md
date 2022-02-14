@@ -101,6 +101,11 @@ layout: default
 * [The Amazon Builders' Library - How Amazon builds and operates software](https://aws.amazon.com/builders-library/)
 * [System Design Weekly - Newsletter](https://mitelman.engineering/system-design-weekly/) **[RECOMMENDED]**
 
+### Machine Coding
+
+1. [Spring Boot Quick Start - YouTube Tutorial](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+2. [Machine Coding Round Practice Questions for Interviews](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
+
 #### YouTube Channels
 
 * [System Design Daily](https://www.youtube.com/channel/UC-nf8kVIeRMAzW3SRMzJ8-g/videos)
