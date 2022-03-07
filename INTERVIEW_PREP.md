@@ -10,6 +10,7 @@ layout: default
 
 * [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
 * C++
+  - [HackingCPP Cheatsheet](https://hackingcpp.com/cpp/cheat_sheets.html) ([PDF Version](https://www.dropbox.com/s/9u6rx7oaxsumwxb/Hacking_CPP_Cheatsheet.pdf?dl=0)) **[RECOMMENDED]**
   - [C++ STL YouTube playlist](https://www.youtube.com/playlist?list=PL_dsdStdDXbq8BTjGdUEWgWYFWYP6pwYb)
   - [C++ Tutorials - STL/Advanced STL/Concurrent Programming by Bo Qian](https://www.youtube.com/user/BoQianTheProgrammer/playlists)
 * Java
