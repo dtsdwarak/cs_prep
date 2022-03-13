@@ -93,7 +93,8 @@ layout: default
 * ~~[System Design Manual](https://systemdesignmanual.com/)~~ Renamed to [Understanding Distributed Systems](https://understandingdistributed.systems/)
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/9352135245/)
 * [System Design Interview – An Insider's Guide](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)
-* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+* [Grokking the OO and System Design Interviews](https://dtsdwarak.github.io/system-design/) **[Complete Material]**
+  - [Actual Course Page @ Educative](https://www.educative.io/courses/grokking-the-system-design-interview)
 * [High Scalability Blog](http://highscalability.com/)
 * [@donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [@binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
@@ -109,6 +110,8 @@ layout: default
 
 #### YouTube Channels
 
+* [System Design Interview - By Mikhail Smarshchok](https://www.youtube.com/c/SystemDesignInterview/featured)
+  - [Check the blog posts for the videos above - By Serhat Giydiren](https://serhatgiydiren.github.io/)
 * [System Design Daily](https://www.youtube.com/channel/UC-nf8kVIeRMAzW3SRMzJ8-g/videos)
 * [Tech Dummies Narendra L](https://www.youtube.com/c/TechDummiesNarendraL/videos)
 * [System Design - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
@@ -120,7 +123,13 @@ layout: default
 * [Distributed Systems lecture series - University of Cambridge](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
   - [Associated Reading Material](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-notes.pdf)
 
-## 10. Mock Interviews
+## 10. Behavioral Interviews
+
+* [Preparation Guide for Tech Interviews - Ace Your Google & Facebook (Meta) Interviews](https://serhatgiydiren.github.io/preparation-guide-for-tech-interviews) (**Also has behavioral interview content**)
+* [Jeff H Sipe](https://www.youtube.com/c/JeffHSipe/videos)
+* [Shadé Zahrai](https://www.youtube.com/c/ShadeZahrai)
+
+## 11. Mock Interviews
 
 1. [Pramp.com](https://www.pramp.com/#/)
 2. [Gainlo](http://www.gainlo.co/#!/)
