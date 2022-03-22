@@ -116,6 +116,7 @@ layout: default
 * [Tech Dummies Narendra L](https://www.youtube.com/c/TechDummiesNarendraL/videos)
 * [System Design - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * [sudoCODE](https://www.youtube.com/c/sudoCODE/videos)
+* [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/videos) **[Great Podcast About Systems Design & Backend Engineering]**
 
 #### Distributed Systems Courses
 
