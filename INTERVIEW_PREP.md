@@ -39,6 +39,12 @@ layout: default
   - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 * [BinarySearch](https://binarysearch.com/) - Free leetcode alternative.
 
+### Top Programming Questions To Focus On
+
+1. [A List by NeetCode](https://neetcode.io/)
+2. [Final 450](https://docs.google.com/spreadsheets/d/1g0inu7IWriyujP3J3jK-H9jmoSg_aDEi/edit?usp=sharing&ouid=117912746833392353256&rtpof=true&sd=true)
+3. [Leetcode 75](https://docs.google.com/spreadsheets/d/1BMW9G5thqoFLPomJfr42O6u7mxqLYp_DZfCz-FW1n9M/edit?usp=sharing)
+
 ## 4. Courses
 
 * [Algorithms I](https://www.coursera.org/course/algs4partI)
