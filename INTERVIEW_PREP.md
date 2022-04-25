@@ -67,6 +67,7 @@ layout: default
 * [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 * [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
 * [Errichto](https://www.youtube.com/c/Errichto/videos)
+* [WilliamFiset](https://www.youtube.com/c/WilliamFiset-videos)
 
 #### References 
 
