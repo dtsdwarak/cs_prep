@@ -108,6 +108,7 @@ layout: default
 * [MS Azure - Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 * [The Amazon Builders' Library - How Amazon builds and operates software](https://aws.amazon.com/builders-library/)
 * [System Design Weekly - Newsletter](https://mitelman.engineering/system-design-weekly/) **[RECOMMENDED]**
+* [Learn System Design - Blog](https://learnsystemdesign.blogspot.com/)
 
 ### Machine Coding
 
@@ -122,6 +123,7 @@ layout: default
 * [Tech Dummies Narendra L](https://www.youtube.com/c/TechDummiesNarendraL/videos)
 * [System Design - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * [sudoCODE](https://www.youtube.com/c/sudoCODE/videos)
+* [codeKarle](https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
 * [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/videos) **[Great Podcast About Systems Design & Backend Engineering]**
 
 #### Distributed Systems Courses
