@@ -37,6 +37,7 @@ layout: default
 * [SPOJ](http://www.spoj.com/)
 * [LeetCode](https://leetcode.com/problemset/algorithms/) **[RECOMMENDED]**
   - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
+  - [Leetcode Lists](./LEETCODE.md)
 * [BinarySearch](https://binarysearch.com/) - Free leetcode alternative.
 
 ### Top Programming Questions To Focus On
