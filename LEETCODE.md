@@ -4,6 +4,8 @@ layout: default
 
 # Leetcode Lists
 
+> [Leetcode Interview Questions and Answers in CPP](https://www.dropbox.com/s/5zibon9fybmrqdl/InterviewQuestions.pdf?dl=0)
+
 1. [DP](https://leetcode.com/list/9x5spweh)
 2. [Greedy](https://leetcode.com/list/925p7hr1)
 3. [Graphs](https://leetcode.com/list/9x1uea1h)

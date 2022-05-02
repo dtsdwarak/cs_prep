@@ -38,6 +38,7 @@ layout: default
 * [LeetCode](https://leetcode.com/problemset/algorithms/) **[RECOMMENDED]**
   - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
   - [Leetcode Lists](./LEETCODE.md)
+  - [Leetcode Interview Questions and Answers in CPP](https://www.dropbox.com/s/5zibon9fybmrqdl/InterviewQuestions.pdf?dl=0)
 * [BinarySearch](https://binarysearch.com/) - Free leetcode alternative.
 
 ### Top Programming Questions To Focus On
