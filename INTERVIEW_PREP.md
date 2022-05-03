@@ -128,6 +128,8 @@ layout: default
 * [sudoCODE](https://www.youtube.com/c/sudoCODE/videos)
 * [codeKarle](https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
 * [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/videos) **[Great Podcast About Systems Design & Backend Engineering]**
+* [Jordan has no life](https://www.youtube.com/channel/UCbvDQKzAJ5GwCjTrv4FWkxg/videos)
+  - [System Design Study Guide - Google Docs](https://docs.google.com/document/d/1KfyhNgojjp-0fyBFqqV7jaGErPGFfo1BgnuN9_yDIkk/mobilebasic)
 
 #### Distributed Systems Courses
 
