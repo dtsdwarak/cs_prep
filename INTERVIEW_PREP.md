@@ -112,6 +112,7 @@ layout: default
 * [The Amazon Builders' Library - How Amazon builds and operates software](https://aws.amazon.com/builders-library/)
 * [System Design Weekly - Newsletter](https://mitelman.engineering/system-design-weekly/) **[RECOMMENDED]**
 * [Learn System Design - Blog](https://learnsystemdesign.blogspot.com/)
+* [System Design Cheatsheet by Denny Zhang](https://www.dropbox.com/s/mm6d83ltrt01urn/System_Design_Cheatsheet_DennyZhang.pdf?dl=0)
 
 ### Machine Coding
 
