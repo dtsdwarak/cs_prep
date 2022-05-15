@@ -58,7 +58,13 @@ You can also cover a list as given here. Thanks to [Abhay Rana](https://captnemo
 
 Reference for [Interview Prep Guide](./INTERVIEW_PREP.md)
 
-## 4. Free Side Project Ideas
+## 4. Read CS Papers
+
+1. [The Morning Paper](https://blog.acolyer.org/) - This is no longer active. But contains a good repo of papers though.
+2. [Micah Lerner](https://www.micahlerner.com/)
+3. [Arxiv.org](https://arxiv.org/)
+
+## 5. Free Side Project Ideas
 
 * [From @karan](https://github.com/karan/Projects)
 * [My own side project list](https://docs.google.com/document/d/1QEdIOuvvJN5LIQapNcEIXhGLUGrgfFQp585wu33I5oQ/edit?usp=sharing)
@@ -71,7 +77,7 @@ Some Open Source projects where you can start contributing. How to start? [Read 
 * [From Github](https://github.com/explore)
 * [A list of organizations from GSOC](https://developers.google.com/open-source/gsoc/2016/organizations)
 
-## 5. Building Profile/Knowledge
+## 6. Building Profile/Knowledge
 
 Here is a list of [best engineering blogs](http://www.nicolabortignon.com/startup-reading-list/) that you may want to follow.
 
