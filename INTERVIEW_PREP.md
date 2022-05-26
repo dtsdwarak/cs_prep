@@ -130,8 +130,9 @@ layout: default
 * [codeKarle](https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
 * [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/videos) **[Great Podcast About Systems Design & Backend Engineering]**
 * [Jordan has no life](https://www.youtube.com/channel/UCbvDQKzAJ5GwCjTrv4FWkxg/videos)
+  - [Slides](https://drive.google.com/drive/folders/1ChodcbMZ4KqS9WP9gin4sLVdCsgD3uoE)
   - [System Design Study Guide - Google Docs](https://docs.google.com/document/d/1KfyhNgojjp-0fyBFqqV7jaGErPGFfo1BgnuN9_yDIkk/mobilebasic)
-
+  
 #### Distributed Systems Courses
 
 * [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
