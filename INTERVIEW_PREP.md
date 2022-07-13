@@ -113,6 +113,7 @@ layout: default
 * [System Design Weekly - Newsletter](https://mitelman.engineering/system-design-weekly/) **[RECOMMENDED]**
 * [Learn System Design - Blog](https://learnsystemdesign.blogspot.com/)
 * [System Design Cheatsheet by Denny Zhang](https://www.dropbox.com/s/mm6d83ltrt01urn/System_Design_Cheatsheet_DennyZhang.pdf?dl=0)
+* [Architecture Notes](https://architecturenotes.co)
 
 ### Machine Coding
 
