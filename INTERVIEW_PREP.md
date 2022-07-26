@@ -20,6 +20,7 @@ layout: default
 * [CP-Algorithms - E-Maxx Algorithms in English](https://cp-algorithms.com/)
 * [The Algorithms](https://the-algorithms.com/) - Repository of Algorithm implementations in all major languages.
 * [Algorithm Visualizer - University of San Francisco](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [Scaler Topics](https://www.scaler.com/topics/) - Tutorials on DSA - with examples.
 
 ## 2. Books
 
@@ -40,6 +41,7 @@ layout: default
   - [Leetcode Lists](./LEETCODE.md)
   - [Leetcode Interview Questions and Answers in CPP](https://www.dropbox.com/s/5zibon9fybmrqdl/InterviewQuestions.pdf?dl=0)
 * [BinarySearch](https://binarysearch.com/) - Free leetcode alternative.
+
 
 ### Top Programming Questions To Focus On
 
