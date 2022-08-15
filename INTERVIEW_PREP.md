@@ -139,6 +139,7 @@ layout: default
 #### Distributed Systems Courses
 
 * [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+  - [Notes from the couse YT course, DDIA and much more - Timi Learning](https://timilearning.com/)
 * [Distributed Systems lecture series - University of Cambridge](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
   - [Associated Reading Material](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-notes.pdf)
 
