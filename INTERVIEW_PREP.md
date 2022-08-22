@@ -143,6 +143,10 @@ layout: default
 * [Distributed Systems lecture series - University of Cambridge](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
   - [Associated Reading Material](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-notes.pdf)
 
+#### Papers
+
+[A Distributed Systems Reading List - Papers](https://dancres.github.io/Pages/)
+
 ## 10. Behavioral Interviews
 
 * [Preparation Guide for Tech Interviews - Ace Your Google & Facebook (Meta) Interviews](https://serhatgiydiren.github.io/preparation-guide-for-tech-interviews) (**Also has behavioral interview content**)
