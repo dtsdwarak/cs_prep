@@ -4,6 +4,8 @@ layout: default
 
 # Interview Prep
 
+For starters, check [Confessions from a Big Tech Hiring Manager: Tips for Software Engineering Interviews](https://www.youtube.com/watch?v=vFOw_m5zNCs) - which will set you up for interviews, in terms of expectations, process and some gotchas.
+
 > Reference for [DS wise Algorithm list](https://github.com/dtsdwarak/algorithms/blob/master/interview_prep/Algorithms.md)
 
 ## 1. Algorithm Prep Material
