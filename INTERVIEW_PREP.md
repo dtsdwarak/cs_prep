@@ -154,6 +154,7 @@ For starters, check [Confessions from a Big Tech Hiring Manager: Tips for Softwa
 * [Preparation Guide for Tech Interviews - Ace Your Google & Facebook (Meta) Interviews](https://serhatgiydiren.github.io/preparation-guide-for-tech-interviews) (**Also has behavioral interview content**)
 * [Jeff H Sipe](https://www.youtube.com/c/JeffHSipe/videos)
 * [Shadé Zahrai](https://www.youtube.com/c/ShadeZahrai)
+* [Common Interview Questions and Answers by Jeff Su](https://www.youtube.com/playlist?list=PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP) **[Recommended]**
 
 ## 11. Mock Interviews
 
