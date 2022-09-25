@@ -160,3 +160,13 @@ For starters, check [Confessions from a Big Tech Hiring Manager: Tips for Softwa
 
 1. [Pramp.com](https://www.pramp.com/#/)
 2. [Gainlo](http://www.gainlo.co/#!/)
+
+## 12. Salary Negotiation
+
+1. [I Am Getting an Offer From Big Tech: What Happens Now and How To Negotiate this Offer?](https://www.youtube.com/watch?v=s75AeaTt0UM)
+2. [How to Negotiate a Big Tech Offer as a Software Engineer](https://www.youtube.com/watch?v=cbngWLr7BC4)
+3. [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+4. [Equity 101 for Software Engineers at Big Tech and Startups](https://blog.pragmaticengineer.com/equity-for-software-engineers/)
+5. [Google Recruiter Secrets to Negotiate Your Tech Compensation](https://www.youtube.com/watch?v=knLjIYmT7KA)
+6. [How to Negotiate Your Tech Salary Simulation ft. Levels.fyi](https://www.youtube.com/watch?v=fyn0CKPuPlA)
+7. [Tips for negotiating your salary (from an ex-FAANG recruiter)](https://www.youtube.com/watch?v=u9BoG1n1948)
