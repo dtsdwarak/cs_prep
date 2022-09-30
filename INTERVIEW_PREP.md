@@ -163,6 +163,11 @@ For starters, check [Confessions from a Big Tech Hiring Manager: Tips for Softwa
 
 ## 12. Salary Negotiation
 
+> Also consider reverse engineering your team and manager before taking a call on the team to join.
+> Some tips here - 
+> 1. [Reverse Interviewing Your Future Manager and Team](https://blog.pragmaticengineer.com/reverse-interviewing/)
+> 2. [12 Questions on Engineering Culture](https://blog.pragmaticengineer.com/pragmatic-engineer-test/)
+
 1. [I Am Getting an Offer From Big Tech: What Happens Now and How To Negotiate this Offer?](https://www.youtube.com/watch?v=s75AeaTt0UM)
 2. [How to Negotiate a Big Tech Offer as a Software Engineer](https://www.youtube.com/watch?v=cbngWLr7BC4)
 3. [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
@@ -170,3 +175,4 @@ For starters, check [Confessions from a Big Tech Hiring Manager: Tips for Softwa
 5. [Google Recruiter Secrets to Negotiate Your Tech Compensation](https://www.youtube.com/watch?v=knLjIYmT7KA)
 6. [How to Negotiate Your Tech Salary Simulation ft. Levels.fyi](https://www.youtube.com/watch?v=fyn0CKPuPlA)
 7. [Tips for negotiating your salary (from an ex-FAANG recruiter)](https://www.youtube.com/watch?v=u9BoG1n1948)
+
