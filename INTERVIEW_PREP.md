@@ -4,7 +4,7 @@ layout: default
 
 # Interview Prep
 
-For starters, check [Confessions from a Big Tech Hiring Manager: Tips for Software Engineering Interviews](https://www.youtube.com/watch?v=vFOw_m5zNCs) - which will set you up for interviews, in terms of expectations, process and some gotchas.
+For starters, check ![Youtube Icon](assets/youtube.png) [Confessions from a Big Tech Hiring Manager: Tips for Software Engineering Interviews](https://www.youtube.com/watch?v=vFOw_m5zNCs) - which will set you up for interviews, in terms of expectations, process and some gotchas.
 
 > Reference for [DS wise Algorithm list](https://github.com/dtsdwarak/algorithms/blob/master/interview_prep/Algorithms.md)
 
@@ -13,10 +13,10 @@ For starters, check [Confessions from a Big Tech Hiring Manager: Tips for Softwa
 * [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
 * C++
   - [HackingCPP Cheatsheet](https://hackingcpp.com/cpp/cheat_sheets.html) ([PDF Version](https://www.dropbox.com/s/9u6rx7oaxsumwxb/Hacking_CPP_Cheatsheet.pdf?dl=0)) **[RECOMMENDED]**
-  - [C++ STL YouTube playlist](https://www.youtube.com/playlist?list=PL_dsdStdDXbq8BTjGdUEWgWYFWYP6pwYb)
-  - [C++ Tutorials - STL/Advanced STL/Concurrent Programming by Bo Qian](https://www.youtube.com/user/BoQianTheProgrammer/playlists)
+  - ![Youtube Icon](assets/youtube.png) [C++ STL YouTube playlist](https://www.youtube.com/playlist?list=PL_dsdStdDXbq8BTjGdUEWgWYFWYP6pwYb)
+  - ![Youtube Icon](assets/youtube.png) [C++ Tutorials - STL/Advanced STL/Concurrent Programming by Bo Qian](https://www.youtube.com/user/BoQianTheProgrammer/playlists)
 * Java
-  - [Java Concurrency and Multithreading - Jakob Jenkov](https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4)
+  - ![Youtube Icon](assets/youtube.png) [Java Concurrency and Multithreading - Jakob Jenkov](https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4)
 * [AlgorithmIst](https://algorithmist.com/wiki/Main_Page)
 * [VisualAlgo](https://visualgo.net/en)
 * [CP-Algorithms - E-Maxx Algorithms in English](https://cp-algorithms.com/)
@@ -56,24 +56,24 @@ For starters, check [Confessions from a Big Tech Hiring Manager: Tips for Softwa
 * [Algorithms I](https://www.coursera.org/course/algs4partI)
 * [Algorithms II](https://www.coursera.org/course/algs4partII)
 * [Data Structures and Algorithms - Coursera](https://www.coursera.org/specializations/data-structures-algorithms)
-* [DS and Algorithms - Dr. Naveen Garg](https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F) **[RECOMMENDED]**
+* ![Youtube Icon](assets/youtube.png) [DS and Algorithms - Dr. Naveen Garg](https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F) **[RECOMMENDED]**
   - [Slides](https://www.dropbox.com/sh/enpo1ilzc11m4r7/AADNMl9_1xCy25b_xbO8oLaLa?dl=0)
 
 ## 5. YouTube Channels
 
 > The channels listed here offer content which is mixed between - Algo/DS questions, Tips for Preparations/Interviews etc.
 
-* [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos)
-* [MyCodeSchool](https://www.youtube.com/user/mycodeschool/videos)
-* [Pepcoding](https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw) **[Available in Hindi. But really good content.]**
-* [Aditya Verma](https://www.youtube.com/c/AdityaVermaTheProgrammingLord/featured) **[Available in Hindi. But really good content.]**
-  - Check the [DP Programming Playlist from Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
-* [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
-* [Algorithm World](https://www.youtube.com/channel/UCyOeSe6gYd9vYpSetIrM-5A) **[Available in Hindi. But really good content.]**
-* [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
-* [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
-* [Errichto](https://www.youtube.com/c/Errichto/videos)
-* [WilliamFiset](https://www.youtube.com/c/WilliamFiset-videos)
+* ![Youtube Icon](assets/youtube.png) [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos)
+* ![Youtube Icon](assets/youtube.png) [MyCodeSchool](https://www.youtube.com/user/mycodeschool/videos)
+* ![Youtube Icon](assets/youtube.png) [Pepcoding](https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw) **[Available in Hindi. But really good content.]**
+* ![Youtube Icon](assets/youtube.png) [Aditya Verma](https://www.youtube.com/c/AdityaVermaTheProgrammingLord/featured) **[Available in Hindi. But really good content.]**
+  - Check the ![Youtube Icon](assets/youtube.png) [DP Programming Playlist from Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+* ![Youtube Icon](assets/youtube.png) [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
+* ![Youtube Icon](assets/youtube.png) [Algorithm World](https://www.youtube.com/channel/UCyOeSe6gYd9vYpSetIrM-5A) **[Available in Hindi. But really good content.]**
+* ![Youtube Icon](assets/youtube.png) [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+* ![Youtube Icon](assets/youtube.png) [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
+* ![Youtube Icon](assets/youtube.png) [Errichto](https://www.youtube.com/c/Errichto/videos)
+* ![Youtube Icon](assets/youtube.png) [WilliamFiset](https://www.youtube.com/c/WilliamFiset-videos)
 
 #### References 
 
@@ -121,28 +121,28 @@ For starters, check [Confessions from a Big Tech Hiring Manager: Tips for Softwa
 
 ### Machine Coding
 
-1. [Spring Boot Quick Start - YouTube Tutorial](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+1. ![Youtube Icon](assets/youtube.png) [Spring Boot Quick Start - YouTube Tutorial](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 2. [Machine Coding Round Practice Questions for Interviews](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
 
 #### YouTube Channels
 
-* [System Design Interview - By Mikhail Smarshchok](https://www.youtube.com/c/SystemDesignInterview/featured)
+* ![Youtube Icon](assets/youtube.png) [System Design Interview - By Mikhail Smarshchok](https://www.youtube.com/c/SystemDesignInterview/featured)
   - [Check the blog posts for the videos above - By Serhat Giydiren](https://serhatgiydiren.github.io/)
-* [System Design Daily](https://www.youtube.com/channel/UC-nf8kVIeRMAzW3SRMzJ8-g/videos)
-* [Tech Dummies Narendra L](https://www.youtube.com/c/TechDummiesNarendraL/videos)
-* [System Design - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
-* [sudoCODE](https://www.youtube.com/c/sudoCODE/videos)
-* [codeKarle](https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
-* [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/videos) **[Great Podcast About Systems Design & Backend Engineering]**
-* [Jordan has no life](https://www.youtube.com/channel/UCbvDQKzAJ5GwCjTrv4FWkxg/videos) **[Recommended]**
+* ![Youtube Icon](assets/youtube.png) [System Design Daily](https://www.youtube.com/channel/UC-nf8kVIeRMAzW3SRMzJ8-g/videos)
+* ![Youtube Icon](assets/youtube.png) [Tech Dummies Narendra L](https://www.youtube.com/c/TechDummiesNarendraL/videos)
+* ![Youtube Icon](assets/youtube.png) [System Design - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+* ![Youtube Icon](assets/youtube.png) [sudoCODE](https://www.youtube.com/c/sudoCODE/videos)
+* ![Youtube Icon](assets/youtube.png) [codeKarle](https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
+* ![Youtube Icon](assets/youtube.png) [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/videos) **[Great Podcast About Systems Design & Backend Engineering]**
+* ![Youtube Icon](assets/youtube.png) [Jordan has no life](https://www.youtube.com/channel/UCbvDQKzAJ5GwCjTrv4FWkxg/videos) **[Recommended]**
   - [Slides](https://drive.google.com/drive/folders/1ChodcbMZ4KqS9WP9gin4sLVdCsgD3uoE) [[BackupCopy](https://www.dropbox.com/sh/1xgir1dgg6dicnv/AACl9tG4EDXmaRlzdVo9np1ma?dl=0)]
   - [System Design Study Guide - Google Docs](https://docs.google.com/document/d/1KfyhNgojjp-0fyBFqqV7jaGErPGFfo1BgnuN9_yDIkk/mobilebasic)
   
 #### Distributed Systems Courses
 
-* [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+* ![Youtube Icon](assets/youtube.png) [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
   - [Notes from the couse YT course, DDIA and much more - Timi Learning](https://timilearning.com/)
-* [Distributed Systems lecture series - University of Cambridge](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+* ![Youtube Icon](assets/youtube.png) [Distributed Systems lecture series - University of Cambridge](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
   - [Associated Reading Material](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-notes.pdf)
 
 #### Papers
@@ -152,9 +152,9 @@ For starters, check [Confessions from a Big Tech Hiring Manager: Tips for Softwa
 ## 10. Behavioral Interviews
 
 * [Preparation Guide for Tech Interviews - Ace Your Google & Facebook (Meta) Interviews](https://serhatgiydiren.github.io/preparation-guide-for-tech-interviews) (**Also has behavioral interview content**)
-* [Jeff H Sipe](https://www.youtube.com/c/JeffHSipe/videos)
-* [Shadé Zahrai](https://www.youtube.com/c/ShadeZahrai)
-* [Common Interview Questions and Answers by Jeff Su](https://www.youtube.com/playlist?list=PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP) **[Recommended]**
+* ![Youtube Icon](assets/youtube.png) [Jeff H Sipe](https://www.youtube.com/c/JeffHSipe/videos)
+* ![Youtube Icon](assets/youtube.png) [Shadé Zahrai](https://www.youtube.com/c/ShadeZahrai)
+* ![Youtube Icon](assets/youtube.png) [Common Interview Questions and Answers by Jeff Su](https://www.youtube.com/playlist?list=PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP) **[Recommended]**
 
 ## 11. Mock Interviews
 
@@ -168,11 +168,11 @@ For starters, check [Confessions from a Big Tech Hiring Manager: Tips for Softwa
 > 1. [Reverse Interviewing Your Future Manager and Team](https://blog.pragmaticengineer.com/reverse-interviewing/)
 > 2. [12 Questions on Engineering Culture](https://blog.pragmaticengineer.com/pragmatic-engineer-test/)
 
-1. [I Am Getting an Offer From Big Tech: What Happens Now and How To Negotiate this Offer?](https://www.youtube.com/watch?v=s75AeaTt0UM)
-2. [How to Negotiate a Big Tech Offer as a Software Engineer](https://www.youtube.com/watch?v=cbngWLr7BC4)
+1. ![Youtube Icon](assets/youtube.png) [I Am Getting an Offer From Big Tech: What Happens Now and How To Negotiate this Offer?](https://www.youtube.com/watch?v=s75AeaTt0UM)
+2. ![Youtube Icon](assets/youtube.png) [How to Negotiate a Big Tech Offer as a Software Engineer](https://www.youtube.com/watch?v=cbngWLr7BC4)
 3. [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 4. [Equity 101 for Software Engineers at Big Tech and Startups](https://blog.pragmaticengineer.com/equity-for-software-engineers/)
-5. [Google Recruiter Secrets to Negotiate Your Tech Compensation](https://www.youtube.com/watch?v=knLjIYmT7KA)
-6. [How to Negotiate Your Tech Salary Simulation ft. Levels.fyi](https://www.youtube.com/watch?v=fyn0CKPuPlA)
-7. [Tips for negotiating your salary (from an ex-FAANG recruiter)](https://www.youtube.com/watch?v=u9BoG1n1948)
+5. ![Youtube Icon](assets/youtube.png) [Google Recruiter Secrets to Negotiate Your Tech Compensation](https://www.youtube.com/watch?v=knLjIYmT7KA)
+6. ![Youtube Icon](assets/youtube.png) [How to Negotiate Your Tech Salary Simulation ft. Levels.fyi](https://www.youtube.com/watch?v=fyn0CKPuPlA)
+7. ![Youtube Icon](assets/youtube.png) [Tips for negotiating your salary (from an ex-FAANG recruiter)](https://www.youtube.com/watch?v=u9BoG1n1948)
 
