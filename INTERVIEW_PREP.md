@@ -163,7 +163,7 @@ For starters, check [Confessions from a Big Tech Hiring Manager: Tips for Softwa
 
 ## 12. Salary Negotiation
 
-> Also consider reverse engineering your team and manager before taking a call on the team to join.
+> Also consider reverse interviewing your team and manager before taking a call on the team to join.
 > Some tips here - 
 > 1. [Reverse Interviewing Your Future Manager and Team](https://blog.pragmaticengineer.com/reverse-interviewing/)
 > 2. [12 Questions on Engineering Culture](https://blog.pragmaticengineer.com/pragmatic-engineer-test/)
