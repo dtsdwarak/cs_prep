@@ -106,7 +106,7 @@ For starters, check ![Youtube Icon](assets/youtube.png) [Confessions from a Big 
 * ~~[System Design Manual](https://systemdesignmanual.com/)~~ Renamed to [Understanding Distributed Systems](https://understandingdistributed.systems/)
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/9352135245/)
 * [System Design Interview – An Insider's Guide](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)
-* [Grokking the OO and System Design Interviews](https://dtsdwarak.github.io/system-design/) **[Complete Material]**
+* [Grokking the OO and System Design Interviews](https://dtsdwarak.github.io/oo-and-system-design/) **[Complete Material]**
   - [Actual Course Page @ Educative](https://www.educative.io/courses/grokking-the-system-design-interview)
 * [High Scalability Blog](http://highscalability.com/)
 * [@donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
