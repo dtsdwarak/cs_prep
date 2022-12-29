@@ -81,6 +81,14 @@ Some Open Source projects where you can start contributing. How to start? [Read 
 
 Here is a list of [best engineering blogs](http://www.nicolabortignon.com/startup-reading-list/) that you may want to follow.
 
+Some great engineering channels that you can follow
+
+* ![Youtube Icon](assets/youtube.png) [Hussein Nasser](https://www.youtube.com/@hnasr) **[Great Podcast About Systems Design & Backend Engineering]**
+* ![Youtube Icon](assets/youtube.png) [Asli Engineering by Arpit Bhayani](https://www.youtube.com/@AsliEngineering)
+* ![Youtube Icon](assets/youtube.png) [The Geek Narrator](https://www.youtube.com/@TheGeekNarrator)
+
+Aside from the above,
+
 * Create a Twitter account and follow good lists.
 * Create a StackOverFlow account and answer as many questions as possible - explore and learn.
 * Listen to podcasts. Some of my personal favourites [here](https://blog.dwarak.in/2015/07/13/Best-Podcasts-On-Web/).
