@@ -62,6 +62,7 @@ Reference for [Interview Prep Guide](./INTERVIEW_PREP.md)
 
 1. [The Morning Paper](https://blog.acolyer.org/) - This is no longer active. But contains a good repo of papers though.
 2. [Micah Lerner](https://www.micahlerner.com/)
+3. [Metadata - Murat Demirbas](https://muratbuffalo.blogspot.com/)
 3. [Arxiv.org](https://arxiv.org/)
 
 ## 5. Free Side Project Ideas
