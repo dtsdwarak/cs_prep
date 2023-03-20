@@ -83,7 +83,7 @@ For starters, check ![Youtube Icon](assets/youtube.png) [Confessions from a Big 
 
 ## 6. Coding Contests
 
-* [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+* ~~[Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)~~ CodeJam has shutdown as of 2023. :(
 * [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
 * [Code Forces](http://codeforces.com/)
 
